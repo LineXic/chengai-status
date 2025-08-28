@@ -1,0 +1,1 @@
+export const SITE_COPYRIGHT_YEAR_START = "2025";
